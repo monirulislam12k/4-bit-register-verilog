@@ -27,5 +27,5 @@ The testbench drives `d` through 0x0 → 0xB → 0x2 → 0xF with a 10 ns clock.
 - **Locally:** compile both files and run `register4_tb` in Questa/ModelSim, then `run -all`
 
 ## Related
-- [4-bit ALU in Verilog](link-to-alu-repo)
+- [4-bit ALU in Verilog]([link-to-alu-repo](https://github.com/monirulislam12k/4-bit-alu-verilog))
 - Video walkthrough: [Instagram reel link]
